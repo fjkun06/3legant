@@ -1,0 +1,3 @@
+*** Additional functionalities ***
+
+/** Print out invoice when user completes payment in PDF form using https://pdfme.com/template-design
